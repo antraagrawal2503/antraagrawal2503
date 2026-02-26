@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Antra 👋
 
-<!--
-**antraagrawal2503/antraagrawal2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student based in Brisbane, Australia  
+💻 Interested in Software Engineering, problem-solving, and building real-world projects  
+🧠 Strong in Python, Java, SQL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- Machine Learning implementations and experiments
+- Strengthening Data Structures & Algorithms
+- Exploring automata theory concepts in code
+
+---
+
+## 🛠️ Technical Skills
+- Languages: Python, Java, SQL
+- Tools: Git, Jupyter Notebook
+- Concepts: Data Structures, Algorithms, Automata Theory
+
+---
+
+## 📚 Currently Learning
+- Machine Learning models from scratch
+- Computational theory & formal languages
+- Writing clean and maintainable code
+
+---
+
+## 📫 Contact
+- Email: antraagrawal2503@gmail.com
