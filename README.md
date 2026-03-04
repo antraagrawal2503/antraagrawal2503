@@ -1,31 +1,44 @@
-# Hi, I’m Antra 👋
+<div align="center">
 
-🎓 Computer Science student based in Brisbane, Australia  
-💻 Interested in Software Engineering, problem-solving, and building real-world projects  
-🧠 Strong in Python, Java, SQL  
+<b>hi, i'm antra 🌷</b><br>
+<sub>cs student @ uq • curious about algorithms, software, and quantitative systems</sub>
 
----
+</div>
 
-## 🚀 What I’m Working On
-- Machine Learning implementations and experiments
-- Strengthening Data Structures & Algorithms
-- Exploring automata theory concepts in code
+<br>
 
----
+<b>about me</b><br>
+<sub>
+• final-year computer science student at uq<br>
+• enjoy problem solving, algorithms & logical thinking<br>
+• building small dsa projects in java<br>
+• currently exploring software engineering + quant tech
+</sub>
 
-## 🛠️ Technical Skills
-- Languages: Python, Java, SQL
-- Tools: Git, Jupyter Notebook
-- Concepts: Data Structures, Algorithms, Automata Theory
+<br>
 
----
+<b>tech</b><br>
+<sub>
+java • python • sql • git • basic data structures & algorithms
+</sub>
 
-## 📚 Currently Learning
-- Machine Learning models from scratch
-- Computational theory & formal languages
-- Writing clean and maintainable code
+<br>
 
----
+<b>currently</b><br>
+<sub>
+• practicing dsa problems<br>
+• improving problem-solving speed<br>
+• preparing for software engineering roles
+</sub>
 
-## 📫 Contact
-- Email: antraagrawal2503@gmail.com
+
+<b>contact</b><br>
+<sub>
+✉️ email: antraagrawal2503@gmail.com<br>
+</sub>
+
+<br>
+
+<div align="center">
+<sub>✨ soft vibes, sharp logic</sub>
+</div>
