@@ -1,7 +1,7 @@
 <div align="center">
 
 <b>hi, i'm antra 🌷</b><br>
-<sub>cs student @ uq • curious about algorithms, software, and quantitative systems</sub>
+<sub>cs student @ uq • algorithms • mental math • problem solving</sub>
 
 </div>
 
@@ -23,6 +23,14 @@ java • python • sql • git • basic data structures & algorithms
 </sub>
 
 <br>
+
+<b>math</b><br>
+<sub>
+• mental math enthusiast ✨<br>
+• trained in abacus mental arithmetic (UCMAS)<br>
+• 1st runner-up — national level competition<br>
+• solved 200 arithmetic questions in ~8 minutes
+</sub>
 
 <b>currently</b><br>
 <sub>
